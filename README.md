@@ -1,8 +1,9 @@
 ・Who is assault ?
 ______________________
 
-I am a 19 year old programmer
-Learning Python, Lua, Dotnet, C# & C+/++
+ I am a 19 year old programmer
+ Learning Python, Lua, Dotnet, C# & C+/++
+ 
 
 
 ・What Languages do you know ?
