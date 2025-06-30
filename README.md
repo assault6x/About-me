@@ -1,7 +1,8 @@
-・Who is Terrible ?
+・Who is assault ?
 ______________________
 
-Idk who i am.
+I am a 19 year old programmer
+Learning Python, Lua, Dotnet, C# & C+/++
 
 
 ・What Languages do you know ?
